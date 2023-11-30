@@ -3,7 +3,12 @@ package paquetePrueba;
 
 public class claseDePrueba {
 	public static void main(String[]args) {
-		System.out.println("Hola esto es una prueba par GitHub");	
+		int a=1;
+		int b=3; 
+		int suma=a+b;
+		
+		System.out.println("El resultado de la suma es "+suma);
+		
 		}
 
 }

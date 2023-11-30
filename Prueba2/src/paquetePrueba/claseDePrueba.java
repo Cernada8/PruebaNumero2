@@ -1,4 +1,5 @@
 package paquetePrueba;
+//Editado desde GitHub 
 
 public class claseDePrueba {
 	public static void main(String[]args) {
